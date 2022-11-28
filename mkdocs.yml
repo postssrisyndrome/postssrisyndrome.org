@@ -1,7 +1,8 @@
 site_name: Post-SSRI Syndrome
 site_url: https://postssrisyndrome.github.io
 theme:
-  name: mkdocs
+  name: null
+  custom_dir: 'cinder'
   locale: it
   nav_style: primary  # 'dark' or 'light'
 plugins:
